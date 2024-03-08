@@ -1,0 +1,11 @@
+
+.single-content-card {
+    transition: transform 0.2s;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  
+  .single-content-card:hover {
+    transform: scale(1.05);
+  }
+  
